@@ -8,3 +8,4 @@ One of Figma’s standout features is its robust design system capabilities. Des
 
 For UI/UX professionals, Figma is more than just a design tool—it’s a creative powerhouse that bridges the gap between designers and developers. Its integration with plugins and third-party tools further enhances productivity, making it an essential asset for modern design teams.  
 
+
